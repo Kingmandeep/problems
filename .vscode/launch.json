@@ -1,0 +1,147 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Life",
+            "request": "launch",
+            "mainClass": "Life",
+            "projectName": "problems_e7cefe6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Assign.Main",
+            "projectName": "problems_e7cefe6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(1)",
+            "request": "launch",
+            "mainClass": "Assign2.Main",
+            "projectName": "problems_e7cefe6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Chef",
+            "request": "launch",
+            "mainClass": "Chef",
+            "projectName": "problems_e7cefe6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch First_and_last",
+            "request": "launch",
+            "mainClass": "First_and_last",
+            "projectName": "problems_e7cefe6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Helping_Chef",
+            "request": "launch",
+            "mainClass": "Helping_Chef",
+            "projectName": "problems_e7cefe6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lead_game",
+            "request": "launch",
+            "mainClass": "Lead_game",
+            "projectName": "problems_e7cefe6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lucky_four",
+            "request": "launch",
+            "mainClass": "Lucky_four",
+            "projectName": "problems_e7cefe6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch P",
+            "request": "launch",
+            "mainClass": "P",
+            "projectName": "problems_e7cefe6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Py",
+            "request": "launch",
+            "mainClass": "Py",
+            "projectName": "problems_e7cefe6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Py1",
+            "request": "launch",
+            "mainClass": "Py1",
+            "projectName": "problems_e7cefe6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Py2",
+            "request": "launch",
+            "mainClass": "Py2",
+            "projectName": "problems_e7cefe6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Py6",
+            "request": "launch",
+            "mainClass": "Py6",
+            "projectName": "problems_e7cefe6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rem",
+            "request": "launch",
+            "mainClass": "Rem",
+            "projectName": "problems_e7cefe6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Second_largest",
+            "request": "launch",
+            "mainClass": "Second_largest",
+            "projectName": "problems_e7cefe6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Small_Factorial",
+            "request": "launch",
+            "mainClass": "Small_Factorial",
+            "projectName": "problems_e7cefe6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Smallest_notes",
+            "request": "launch",
+            "mainClass": "Smallest_notes",
+            "projectName": "problems_e7cefe6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Square_root",
+            "request": "launch",
+            "mainClass": "Square_root",
+            "projectName": "problems_e7cefe6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Valid_triangle",
+            "request": "launch",
+            "mainClass": "Valid_triangle",
+            "projectName": "problems_e7cefe6a"
+        }
+    ]
+}
